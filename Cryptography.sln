@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cryptography", "Cryptography\Cryptography.csproj", "{FC34E640-2590-4245-B874-534290131163}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cryptography.Tests", "Cryptography.Tests\Cryptography.Tests.csproj", "{CC301E1F-4FAC-4F83-B83A-82DE3FA82438}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC34E640-2590-4245-B874-534290131163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC34E640-2590-4245-B874-534290131163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC34E640-2590-4245-B874-534290131163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC34E640-2590-4245-B874-534290131163}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC301E1F-4FAC-4F83-B83A-82DE3FA82438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC301E1F-4FAC-4F83-B83A-82DE3FA82438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC301E1F-4FAC-4F83-B83A-82DE3FA82438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC301E1F-4FAC-4F83-B83A-82DE3FA82438}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5300059E-7448-4680-B55D-718EFCDE0D71}
+	EndGlobalSection
+EndGlobal
